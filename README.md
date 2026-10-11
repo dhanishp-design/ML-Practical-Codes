@@ -6,6 +6,8 @@ This repository contains my Machine Learning assignment codes implemented using 
 - **Assignment 2:** Regression Model for House Price Prediction
 - **Assignment 3:** Logistic Regression for Classification
 - **Assignment 4:** Email Spam Classification Using Naïve Bayes
+- **Assignment 5:** Decision Tree Classification
+- **Assignment 6:** K-Means Clustering Algorithm for Customer Segmentation
 
 ## Technologies Used
 - Python
