@@ -5,6 +5,7 @@ This repository contains my Machine Learning assignment codes implemented using 
 ## Assignments
 - **Assignment 2:** Regression Model for House Price Prediction
 - **Assignment 3:** Logistic Regression for Classification
+- **Assignment 4:** Email Spam Classification Using Naïve Bayes
 
 ## Technologies Used
 - Python
